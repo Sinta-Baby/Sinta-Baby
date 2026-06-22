@@ -24,34 +24,22 @@ I am an Integrated Computer Science & Data Science student passionate about Arti
 
 ## 🚀 Featured Projects
 
-### 🥇 GoldenResQ – Women's Safety & Emergency Assistance Platform
-- 1st Prize Winner at Tink-Her-Hack 4.0 Women's Hackathon
-- AI-powered emergency assistance and rescue solution for women's safety
-- Designed to provide quick access to help, emergency contacts, and location-based support
-- Developed as an innovative social impact project using modern technologies
+### 🚗 GoldenResQ – AI-Based Accident Detection & Emergency Response System
 
----
+Computer Vision and Deep Learning-based solution that detects road accidents in real time and automatically triggers emergency alerts for rapid response.
 
-### 🐶 Canine Care – AI-Based Dog Nutrition Recommendation System
-- Machine Learning-based recommendation system
-- Personalized nutrition suggestions based on breed and age
-- Focus on pet health and intelligent recommendations
 
----
+🐶 Canine Care – AI-Powered Dog Nutrition Recommendation System
 
-### 🏙️ AI Smart Campus Cleanliness System
-- AI-powered smart campus cleanliness and illegal dumping detection system
-- Built using YOLOv8 and OpenCV
-- Supports automated monitoring for cleaner and smarter campuses
+Machine Learning-based recommendation platform that provides personalized nutrition and diet suggestions based on dog breed, age, and health-related factors.
 
----
+🏙️ Smart Campus AI – Cleanliness Monitoring System
 
-### 💪 AI Fitness Assistant Chatbot
-- AI-powered fitness and nutrition assistant
-- Built using Python and Large Language Model (LLM) technologies
-- Provides personalized workout, diet, and wellness recommendations
+AI-driven campus monitoring solution using YOLOv8 and OpenCV to detect littering, track cleanliness levels, and support smarter campus management.
 
----
+💪 AI Fitness Assistant Chatbot
+
+Intelligent fitness and wellness assistant powered by Large Language Models (LLMs), delivering personalized workout plans, nutrition guidance, and health recommendations.
 
 ## 🚀 Tech Stack
 
