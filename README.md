@@ -53,51 +53,20 @@ I am an Integrated Computer Science & Data Science student passionate about Arti
 
 ---
 
+## 🚀 Tech Stack
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,tensorflow,git,github,vscode" />
+</p>
 
-### Languages
-- Python
-- SQL
-- HTML
-- CSS
-- JavaScript (Basics)
-
-### AI & Machine Learning
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI
-- YOLOv8
-- OpenCV
-
-### Libraries & Frameworks
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- TensorFlow
-- Gradio
-
-### Tools
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
-- Kaggle
-
-### Databases
-- MySQL
-
-## 🎯 Currently Learning
-
-- Advanced Machine Learning
-- Deep Learning
-- Generative AI
-- Computer Vision
-- Large Language Models (LLMs)
-- AI Agent Development
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLOv8-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-lightgrey?style=for-the-badge" />
+</p>
 
 ## 🌟 Motto
 
